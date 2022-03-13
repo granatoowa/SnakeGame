@@ -1,2 +1,2 @@
 # SnakeGame
-University project
+University project in c++
